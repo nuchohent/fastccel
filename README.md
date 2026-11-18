@@ -2,7 +2,7 @@
 
 A personal Fastfetch setup running on Devuan GNU/Linux, with a custom terminal layout, system information, and artwork.
 
-![Fastfetch screenshot](images/fastfetch.png)
+![Fastfetch screenshot](https://github.com/nuchohent/fastccel/blob/main/fastfetch.png)
 
 ## Настройка Fastfetch
 
