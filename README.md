@@ -8,4 +8,4 @@ A personal Fastfetch setup running on Devuan GNU/Linux, with a custom terminal l
 
 Моя персональная настройка Fastfetch в Devuan GNU/Linux: оформление терминала, информация о системе и изображение.
 
-![Скриншот Fastfetch](images/fastfetch.png)
+![Скриншот Fastfetch](https://github.com/nuchohent/fastccel/blob/main/fastfetch.png)
