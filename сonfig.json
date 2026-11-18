@@ -1,0 +1,75 @@
+//        ______           __  ____________     __
+//       / ____/___ ______/ /_/ ____/ ____/__  / /
+//      / /_  / __ `/ ___/ __/ /   / /   / _ \/ / 
+//     / __/ / /_/ (__  ) /_/ /___/ /___/  __/ /  
+//    /_/    \__,_/____/\__/\____/\____/\___/_/   
+//                                                
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+ "logo": {
+        "type": "kitty",
+        "source": "~/Изображения/icon/rossmary.png",
+        "height": 12,
+        "padding": {
+            "top": 3,
+            "right": 2,
+            "bottom": 2
+    }
+  },
+    "display": {
+        "separator": " "
+    },
+    "modules": [
+  "break",
+        {
+            "type": "os",
+            "key": " ",
+            "keyColor": "33",  // = color3
+        },
+        "break",
+        {
+            "type": "kernel",
+            "key": " ",
+            "keyColor": "33",
+        },
+        "break",
+        {
+            "type": "packages",
+            "format": "{}",
+            "key": " ",
+            "keyColor": "33",  
+        },
+        "break",
+        {
+            "type": "shell",
+            "key": " ",
+            "keyColor": "33", 
+        },
+        "break",
+        {
+            "type": "terminal",
+            "key": " ",
+            "keyColor": "33", 
+        },
+        "break",
+        {
+            "type": "wm",
+            "key": " ",
+            "keyColor": "33", 
+        },
+        "break",
+        {
+            "type": "uptime",
+            "key": " ",
+            "keyColor": "33", 
+        },
+        "break",
+        {
+            "type": "memory",
+            "key": "󰍛 ",
+            "keyColor": "33",
+        },
+       "break",
+       "break",
+    ]
+}
